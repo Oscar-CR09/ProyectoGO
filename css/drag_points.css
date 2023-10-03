@@ -1,0 +1,34 @@
+
+
+#container2 {
+    position: absolute;
+
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 229px;
+    height: 296px;
+
+
+}
+.img {
+
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: url(../images/lenna.jpg);
+}
+.pt {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    margin-left: -15px;
+    margin-top: -15px;
+    border-radius: 15px;
+    background-color: #F00;
+    cursor: pointer;
+}
+
+
+
+
+
